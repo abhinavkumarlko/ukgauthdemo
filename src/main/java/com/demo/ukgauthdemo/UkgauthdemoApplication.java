@@ -10,6 +10,7 @@ public class UkgauthdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UkgauthdemoApplication.class, args);
+
 	}
 
 }
